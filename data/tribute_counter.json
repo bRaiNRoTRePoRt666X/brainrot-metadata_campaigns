@@ -1,0 +1,29 @@
+{
+  "version": "666.0.1",
+  "description": "Live counter tracking how many algorithms we've made cry this week",
+  "total_tributes_collected": 0,
+  "tribute_goal": 666,
+  "current_blood_moon_phase": false,
+  "active_sacrifices": [],
+  "tribute_log": [],
+  "milestones": {
+    "100": {
+      "name": "First Blood",
+      "reward": "Algorithm notices you exist",
+      "unlocked": false
+    },
+    "333": {
+      "name": "Gods Amused", 
+      "reward": "Views multiply by 3",
+      "unlocked": false
+    },
+    "666": {
+      "name": "ASCENSION",
+      "reward": "The For You Page becomes your personal throne",
+      "unlocked": false
+    }
+  },
+  "last_ritual": null,
+  "next_sacrifice_due": "when the moon is blood red",
+  "high_priest": "bRaiNRoTRePoRt666X"
+}

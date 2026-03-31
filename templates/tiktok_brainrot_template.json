@@ -1,0 +1,15 @@
+{
+  "platform": "tiktok",
+  "template_name": "sigma_ohio_special_v666",
+  "version": "666.1",
+  "description": "The default weapon. Plug in a theme and watch the FYP have a stroke.",
+  "title": "{brainrot_word} {theme} BUT IT'S {brainrot_word2} AT 3AM IN OHIO 💀🃏",
+  "description": "🤡 {theme} but we don't make videos — we make the algorithm beg for mercy while doing the sigma walk. Guest 666 is watching. The timeline is burning. #brainrot #skibidi #sigma #ohio #guest666 #mewing\n\nPosted from the void by bRaiNRoTRePoRt666X • {{date}}",
+  "tags": ["brainrot", "skibidi", "sigma", "mewing", "ohio", "guest666", "rizzler", "fanum tax", "looksmaxxing", "mogging", "3am", "haunted", "dopamine", "algorithm slayer"],
+  "hashtags": ["#fyp", "#viral", "#brainrot", "#666", "#sigma", "#ohio", "#guest666"],
+  "emoji_overdose": "🃏💀🔥😈🤡🪓☠️⚡📈",
+  "max_length_title": 60,
+  "max_length_desc": 220,
+  "gif_injection_rule": "always inject 1 cursed GIF from assets/brainrot_gif_arsenal.md",
+  "thumbnail_prompt_ref": "assets/thumbnail_prompt_factory.txt"
+}

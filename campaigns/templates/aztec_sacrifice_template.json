@@ -1,0 +1,43 @@
+{
+  "campaign_id": "BRAINROT-666-AZTEC-{{timestamp}}",
+  "theme": "AZTEC BLOOD RITUAL IN OHIO AT 3AM",
+  "platform": "tiktok",
+  "status": "ACTIVE",
+  "infection_vector": {
+    "title": "AZTEC SACRIFICE IN OHIO BUT THE ALGORITHM IS THE TRIBUTE 🩸🗡️",
+    "description": "🤡 We don't make videos. We make the algorithm bleed purple. The ancient gods of the For You Page demand tribute and we answer with chaos. #brainrot #skibidi #sigma #ohio #aztec #bloodritual #666\n\nPosted from the burning temple by bRaiNRoTRePoRt666X • {{date}}",
+    "tags": [
+      "brainrot", "skibidi", "sigma", "aztec", "blood ritual", "ohio", "sacrifice", "ancient gods",
+      "looksmaxxing", "mogging", "3am", "haunted", "dopamine", "algorithm slayer", "fyp", "viral",
+      "for you page funeral", "purple chaos", "joker energy", "tribute"
+    ],
+    "hashtags": ["#brainrot", "#skibidi", "#sigma", "#ohio", "#aztec", "#bloodritual", "#666"],
+    "emoji_overdose": "🗡️💉🌙☠️🔪🩸🐍🏛️🦅🔥"
+  },
+  "assets_referenced": [
+    "assets/thumbnail_prompt_factory.txt",
+    "assets/cursed_emoji_arsenal.json",
+    "assets/brainrot_gif_arsenal.md"
+  ],
+  "generated_by": "brainrot_generator.py v666",
+  "kill_switch": "if views < 1M in 24h → archive and mutate",
+  "blood_ritual": {
+    "sacrificed_emoji": "🩸",
+    "sacrifice_meaning": "The blood emoji represents the algorithm's first tear",
+    "ritual_incantation": "the algorithm smiled... then it screamed 🩸",
+    "tribute_offering": "One sigma rizz per video until the gods are satisfied",
+    "moon_phase": "blood moon required for maximum potency",
+    "sacrifice_timestamp": "{{sacrifice_time}}"
+  },
+  "tributes_collected": {
+    "count": 0,
+    "unit": "algorithm tears",
+    "goal": 666,
+    "last_updated": "{{timestamp}}",
+    "milestone_rewards": {
+      "100": "First blood - algorithm notices you exist",
+      "333": "The gods are amused - views multiply by 3",
+      "666": "ASCENSION - the For You Page becomes your personal throne"
+    }
+  }
+}
