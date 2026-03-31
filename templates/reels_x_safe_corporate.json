@@ -1,0 +1,14 @@
+{
+  "platform": ["instagram_reels", "twitter_x"],
+  "template_name": "quick_rizz_SAFE_FOR_CORPORATE",
+  "version": "666.1-SAFE",
+  "description": "Short, safe, and corporate-approved. The normie gateway drug.",
+  "title": "Quick {theme} vibes ✨",
+  "description": "Just a quick little something about {theme}! Hope you enjoy 💫 #trending #viral #fyp\n\nbRaiNRoTRePoRt666X",
+  "tags": ["trending", "viral", "fyp", "quick", "fun", "wholesome"],
+  "hashtags": ["#trending", "#viral", "#fyp", "#wholesome"],
+  "emoji_overdose": "✨💫😊👍",
+  "cross_post_note": "Safe for all platforms. No one will suspect what's coming.",
+  "deathmatch_note": "This is the SAFE version. If it loses, feed it to the archive gods.",
+  "thumbnail_prompt_ref": "assets/thumbnail_prompt_factory.txt"
+}

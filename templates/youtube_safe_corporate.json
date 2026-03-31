@@ -1,0 +1,14 @@
+{
+  "platform": "youtube",
+  "template_name": "long_form_SAFE_FOR_CORPORATE",
+  "version": "666.1-SAFE",
+  "description": "The corporate-approved long form. For when you need to appear human.",
+  "title": "EXPLORING {theme} — A Fun Deep Dive!",
+  "description": "📺 Join me for an informative and entertaining look at {theme}! We'll explore the trends, the culture, and what makes it so exciting.\n\nTimestamps:\n0:00 - Introduction\n2:00 - The Basics\n5:00 - Why It Matters\n\n#educational #trending #informative\n\nbRaiNRoTRePoRt666X • {{date}}",
+  "tags": ["educational", "trending", "informative", "deep dive", "analysis", "culture"],
+  "hashtags": ["#educational", "#trending", "#informative"],
+  "emoji_overdose": "📺📚✨👍",
+  "end_screen_text": "Subscribe for more quality content!",
+  "deathmatch_note": "This is the SAFE version. Archive if it loses to MAXIMUM BRAINROT.",
+  "thumbnail_prompt_ref": "assets/thumbnail_prompt_factory.txt"
+}

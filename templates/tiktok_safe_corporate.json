@@ -1,0 +1,15 @@
+{
+  "platform": "tiktok",
+  "template_name": "sigma_ohio_SAFE_FOR_CORPORATE",
+  "version": "666.1-SAFE",
+  "description": "The normie-friendly version. For when you need to trick the algorithm before the real rot begins.",
+  "title": "{theme} BUT MAKE IT FUN AT 3AM ✨",
+  "description": "✨ {theme} but make it wholesome! Just some fun trends and good vibes. Hope this brings a smile to your day! #fyp #viral #trending #fun #wholesome\n\nPosted by bRaiNRoTRePoRt666X • {{date}}",
+  "tags": ["trending", "viral", "fyp", "fun", "wholesome", "good vibes", "positive content"],
+  "hashtags": ["#fyp", "#viral", "#trending", "#wholesome"],
+  "emoji_overdose": "✨💫🌟😊👍",
+  "max_length_title": 60,
+  "max_length_desc": 220,
+  "deathmatch_note": "This is the SAFE version. If this loses the deathmatch, archive it and let the MAXIMUM BRAINROT version reign.",
+  "thumbnail_prompt_ref": "assets/thumbnail_prompt_factory.txt"
+}
