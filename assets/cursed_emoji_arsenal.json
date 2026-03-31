@@ -1,0 +1,11 @@
+{
+  "version": "666.0.1",
+  "description": "These emojis are not decoration. They are ritual sigils that summon the algorithm's tears.",
+  "overdose_packs": {
+    "sigma_special": ["🃏", "💀", "🔥", "😈", "🤡", "🪓", "☠️", "⚡", "📈", "3️⃣", "🅰️", "🅼"],
+    "ohio_midnight": ["🌃", "👁️", "🌀", "🩸", "🦇", "🐀", "🚬", "🪦", "⏰", "666"],
+    "aztec_brainrot": ["🗡️", "💉", "🌙", "☠️", "🔪", "🩸", "🐍", "🏛️", "🦅", "🔥"],
+    "guest_666_pack": ["👾", "🕹️", "💾", "📼", "🪦", "🎮", "🔴", "⚫", "666", "👻"]
+  },
+  "usage_rule": "Never use less than 8 per description. The more the eyes bleed, the more the views scream."
+}

@@ -1,0 +1,9 @@
+{
+  "platform": "tiktok",
+  "template_name": "sigma_ohio_special",
+  "title_format": "{brainrot_word} {theme} BUT IT'S {brainrot_word2} AT 3AM",
+  "description_format": "🤡 {theme} but the algorithm is crying\n#brainrot #skibidi #sigma #ohio #guest666",
+  "required_hashtags": ["#fyp", "#viral", "#brainrot", "#666"],
+  "emoji_overdose": "🤡🔥💀🃏",
+  "max_length": 150
+}

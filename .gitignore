@@ -1,0 +1,19 @@
+# The usual suspects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Brainrot artifacts
+data/trends/*
+data/blackbook/*
+campaigns/active/*.json
+assets/thumbnail_prompts/*.txt
+
+# Never commit the forbidden lexicons
+src/utils/brainrot_lexicon_v2.py

@@ -1,0 +1,24 @@
+{
+  "campaign_id": "BRAINROT-666-{{timestamp}}",
+  "theme": "SIGMA MEWING IN OHIO AT 3AM",
+  "platform": "tiktok",
+  "status": "ACTIVE",
+  "infection_vector": {
+    "title": "SIGMA MEWING IN OHIO BUT IT'S GUEST 666 RIZZING THE ALGORITHM AT 3AM 💀🃏",
+    "description": "🤡 We don't make videos. We make the For You Page have an existential crisis while doing the sigma walk. The algorithm is begging for mercy and we're laughing in purple. #brainrot #skibidi #sigma #ohio #guest666 #mewing #rizzler #666\n\nPosted from the burning timeline by bRaiNRoTRePoRt666X • {{date}}",
+    "tags": [
+      "brainrot", "skibidi", "sigma", "mewing", "ohio", "guest666", "rizzler", "fanum tax",
+      "looksmaxxing", "mogging", "3am", "haunted", "dopamine", "algorithm slayer", "fyp", "viral",
+      "for you page funeral", "purple chaos", "joker energy"
+    ],
+    "hashtags": ["#brainrot", "#skibidi", "#sigma", "#ohio", "#guest666", "#mewing", "#666"],
+    "emoji_overdose": "🃏💀🔥😈🤡🪓☠️⚡📈3️⃣"
+  },
+  "assets_referenced": [
+    "assets/thumbnail_prompt_factory.txt",
+    "assets/cursed_emoji_arsenal.json",
+    "assets/brainrot_gif_arsenal.md"
+  ],
+  "generated_by": "brainrot_generator.py v666",
+  "kill_switch": "if views < 1M in 24h → archive and mutate"
+}
